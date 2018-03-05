@@ -1,6 +1,6 @@
 # Code Duel
 
-Code duel is an app where two or more people can join (in real time) to duel and find out who is best at coding. The person who finishes first wins.
+Code duel is an app where two or more people can join (in real time) to duel and find out who is best at coding. The person who finishes first wins!
 
 ## Team
 
